@@ -11,7 +11,7 @@ The school board has suspected academic dishonesty from 9th graders at Thomas Hi
 - The scores by school spending per student, by school size, and by shcool type 
 
 # Results
-- How is district summary affected? 
+- **How is district summary affected?**
 
 - Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing decreased 
   
@@ -23,7 +23,7 @@ The school board has suspected academic dishonesty from 9th graders at Thomas Hi
   
   ![](/revised_district_summary.png)
 
-- How is the school summary affected? 
+- **How is the school summary affected?**
 
   - No other school than Thomas High School was affected. But within THS you can see that Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing all decreased, while Average Reading Score actually increased. 
   
@@ -35,12 +35,12 @@ The school board has suspected academic dishonesty from 9th graders at Thomas Hi
   
   ![](revised_school_summary.png)
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
   - Unchanged - accounting for the scandal and removing those scores kept Thomas High School as the second best performing school. 
 
 
-- How does replacing the ninth-grade scores affect the following:
+- **How does replacing the ninth-grade scores affect the following**:
   - Math and reading scores by grade
     - Scores remain the same for all schools except for 9th Graders at THS where their score is now represented by "nan"
   - Scores by school spending
